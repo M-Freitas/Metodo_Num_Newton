@@ -1,0 +1,12 @@
+	# if k == 0:
+			# 	vl_x_k = d_0
+			# 	vl_x_k1 = vl_x_k - ((Func(a_3, a_2, vl_x_k))/(Der_Func(a_3, a_2, vl_x_k)))
+			# 	lista_resFx.append((Func(a_3, a_2, vl_x_k)))
+			# 	lista_resDerFx.append(Der_Func(a_3, a_2, vl_x_k))
+			# 	lista_xk.append(vl_x_k)
+			# else:
+			# 	vl_x_k1 = vl_x_k - ((Func(a_3, a_2, vl_x_k))/(Der_Func(a_3, a_2, vl_x_k)))		
+			# 	lista_resFx.append((Func(a_3, a_2, vl_x_k)))
+			# 	lista_resDerFx.append(Der_Func(a_3, a_2, vl_x_k))
+			# 	lista_xk.append(vl_x_k1)
+			# #####
