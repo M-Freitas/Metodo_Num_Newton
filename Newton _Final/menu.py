@@ -27,5 +27,6 @@ def menu():
 	table.add_row(["7ª Opção do método a ser utilizado"])
 	print(table)
 	#######
+	print('\n')
 	enter('')
 	clear()
