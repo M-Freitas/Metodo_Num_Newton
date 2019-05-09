@@ -1,6 +1,6 @@
 # #coding: utf-8
 import funcs, menu
-from prettytable import PrettyTable
+from prettytable import prettytable
 ######
 menu.menu()
 print("-------- Atribuição de Valores --------\n")
@@ -25,9 +25,10 @@ table_values.add_row(["Valor de Épsilon: %s" %eps])
 table_values.add_row(["Iterações Máximas: %s" %iterMax])
 ######
 print(table_values)
-opc_met = int(input("Escolha um das opções para selecionar o método a ser utilizado - [1 - MÉTODO DE NEWTON || 2 - MÉTODO DE NEWTON(FL)]\nOpcão: "))
+opc_met = int(input("Escolha um das opções para selecionar o método a ser utilizado\n[1 - MÉTODO DE NEWTON || 2 - MÉTODO DE NEWTON(FL)]\n\nOpcão: "))
 while (opc_met != 1 and opc_met != 2):
 	opc_met = int(input("Escolha um das opções listas\n[1 - Método de Newton || 2 - Método de Newton(FL)]\nOpção: "))
+print("\n")
 menu.enter('met')
 menu.clear()
 if opc_met == 1:
