@@ -19,7 +19,7 @@
 ***EXECUÇÃO DO PROGRAMA VIA EXECUTÁVEL***
 
 
-*****WINDOWS****
+***WINDOWS***
 
 1ª Faça download do executável situado na pasta ***exe_win*** e salve-o em uma pasta
 
