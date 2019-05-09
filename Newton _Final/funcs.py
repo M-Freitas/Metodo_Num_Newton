@@ -1,6 +1,6 @@
 #coding: utf-8
 import math
-from prettytable import PrettyTable
+from prettytable import prettytable
 
 #LISTA GLOBAIS PARA REGITRAR OS VALORES EM CADA ITERAÇÃO
 lista_xk = []
@@ -11,7 +11,8 @@ def Func(a3, a2, d):
 	return (a3*(d**3) - 9*a2*d + 3)
 #FUNÇÃO PARA CALCULAR O VALOR DE F'(D)
 def Der_Func(a3, a2, d):
-	return (3*a3*(d**2) - 9*a2)
+	h = 0.0000000001
+	return((Func(a3, a2, d + h) - Func(a3, a2, d - h))/(2 * h))
 #FUNÇÃO PARA TESTE DO CRITERIO DE PARADA |X_K1 - X_K0| <= EPS
 def CritParada_Inter(x_k1, x_k, eps):
 	return (math.fabs(x_k1 - x_k) <= eps)
