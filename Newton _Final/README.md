@@ -6,19 +6,19 @@
 
 PRÉ-REQUISITOS PARA A EXECUÇÃO DO PROGRAMA:
 
-**** WINDOWS *****
+***WINDOWS***
 
 ------> PYTHON 3.6 OU SUPERIOR
 
-*****LINUX******
+***LINUX***
 
 ------> PYTHON 3.6 OU SUPERIOR
 
 ***********************************************************************************************
 
-****** EXECUÇÃO DO PROGRAMA VIA PROMPT *******
+******EXECUÇÃO DO PROGRAMA VIA PROMPT*******
 
-**** WINDOWS *****
+***WINDOWS***
 
 1ª MENU -> TODOS OS PROGRAMAS -> VÁ NA PASTA "SISTEMA DO WINDOWS" -> PROMPT DE COMANDO
 
@@ -29,7 +29,7 @@ PRÉ-REQUISITOS PARA A EXECUÇÃO DO PROGRAMA:
 
 4ª RESULTADO DO PROGRAMA ESTARÁ EM UM ARQUIVO .TXT NA MESMA PASTA ONDE ENCONTRA-SE A main.py
 
-****** LINUX ******
+***LINUX ***
 
 1ª MENU -> VÁ NA BARRA DE PESQUISA -> EMULADOR DE TERMINAL
 
