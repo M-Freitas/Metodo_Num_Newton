@@ -13,7 +13,7 @@ def enter(opc):
 	else:
 		input("Pressione a tecla ENTER para continuar")
 def menu():
-	table = PrettyTable()
+	table = prettytable.PrettyTable()
 	table.title = "--------- Método de Newton/Newton - FL --------- "
 	table.field_names = ["Serão necessários a entrada dos seguintes dados"]
 	table.align["Serão necessários a entrada dos seguintes dados"] = 'l'
