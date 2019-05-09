@@ -10,7 +10,7 @@ PRÉ-REQUISITOS PARA A EXECUÇÃO DO PROGRAMA:
 
 ------> PYTHON 3.6 OU SUPERIOR
 
-***** LINUX ******
+*****LINUX******
 
 ------> PYTHON 3.6 OU SUPERIOR
 
