@@ -16,7 +16,9 @@
 ------> PYTHON 3.6 OU SUPERIOR
 
 ***********************************************************************************************
-*****EXECUÇÃO DO PROGRAMA VIA EXECUTÁVEL*******
+***EXECUÇÃO DO PROGRAMA VIA EXECUTÁVEL***
+
+
 *****WINDOWS****
 
 1ª Faça download do executável situado na pasta ***exe_win*** e salve-o em uma pasta
@@ -26,6 +28,7 @@
 3ª Insira os dados(***LEMBRADO QUE NÚMEROS COM "QUEBRADOS" USA-SE O PONTO, NO LUGAR DA VÍRGULA***)
 
 4ª Os resultados serão salvos em um arquivo .txt na pasta onde encontra-se o executável.
+
 
 ***LINUX***
 
@@ -38,6 +41,7 @@
 3ª Insira os dados(***LEMBRADO QUE NÚMEROS COM "QUEBRADOS" USA-SE O PONTO, NO LUGAR DA VÍRGULA***)
 
 4ª Os resultados serão salvos em um arquivo .txt na pasta onde encontra-se o executável.
+
 
 ***********************************************************************************************
 ******EXECUÇÃO DO PROGRAMA VIA PROMPT*******
@@ -53,7 +57,7 @@
 
 4ª RESULTADO DO PROGRAMA ESTARÁ EM UM ARQUIVO .TXT NA MESMA PASTA ONDE ENCONTRA-SE A main.py
 
-***********************************************************************************************
+
 ***LINUX***
 
 1ª MENU -> VÁ NA BARRA DE PESQUISA -> EMULADOR DE TERMINAL
