@@ -51,6 +51,7 @@
 1ª MENU -> TODOS OS PROGRAMAS -> VÁ NA PASTA "SISTEMA DO WINDOWS" -> PROMPT DE COMANDO
 
 2ª ACESSE A PASTA DO PROGRAMA VIA COMANDOS DO PROMPT
+  
   2.1. cd "caminho onde a pasta do programa encontra-se"
   
 3ª JÁ NA PASTA ONDE O PROGRAMA ENCONTRA-SE, DIGITE: python main.py
@@ -63,7 +64,8 @@
 1ª MENU -> VÁ NA BARRA DE PESQUISA -> EMULADOR DE TERMINAL
 
 2ª ACESSE A PASTA DO PROGRAMA VIA COMANDOS DO PROMPT
-  2.1. cd "caminho onde a pasta do programa encontra-se"
+ 
+ 2.1. cd "caminho onde a pasta do programa encontra-se"
 
 3ª JÁ NA PASTA ONDE O PROGRAMA ENCONTRA-SE, DIGITE: py main.py
 
