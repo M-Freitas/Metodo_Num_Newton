@@ -29,6 +29,7 @@ PRÉ-REQUISITOS PARA A EXECUÇÃO DO PROGRAMA:
 
 4ª RESULTADO DO PROGRAMA ESTARÁ EM UM ARQUIVO .TXT NA MESMA PASTA ONDE ENCONTRA-SE A main.py
 
+***********************************************************************************************
 ***LINUX***
 
 1ª MENU -> VÁ NA BARRA DE PESQUISA -> EMULADOR DE TERMINAL
