@@ -12,7 +12,7 @@ eps = funcs.dif_zero('Épsilon', 'float*')
 iterMax = funcs.dif_zero('iterações máximas', 'int*')
 menu.clear()
 ######
-table_values = PrettyTable()
+table_values = prettytable.PrettyTable()
 table_values.title = "---- Tabela de Valores ----"
 table_values.field_names = ["Valores das Variáveis"]
 table_values.align["Valores das Variáveis"] = 'l'
