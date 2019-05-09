@@ -2,9 +2,10 @@
 
 # Trabalho sobre o Método de Newton para a cadeira de Cálculo Númerico - CK0012
 
-********* PROGRAMA PARA CÁLCULO DE RAÍZES DE POLINÔMIOS USANDO O MÉTODO DE NEWTON ************
+***********************************************************************************************
+********PROGRAMA PARA CÁLCULO DE RAÍZES DE POLINÔMIOS USANDO O MÉTODO DE NEWTON********
 
-PRÉ-REQUISITOS PARA A EXECUÇÃO DO PROGRAMA:
+***PRÉ-REQUISITOS PARA A EXECUÇÃO DO PROGRAMA:***
 
 ***WINDOWS***
 
