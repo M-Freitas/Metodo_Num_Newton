@@ -37,7 +37,7 @@ def dif_zero(var, opc):
 	return num
 #FUNÇÃO PARA IMPRIMIR OS DADOS EM TXT
 def writeArq(lista1, lista2, lista3, opc):
-	table = PrettyTable()
+	table = prettytable.PrettyTable()
 	if opc == 1:
 		arq = open('res_OG_Newton.txt', 'a')
 		
