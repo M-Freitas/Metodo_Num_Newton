@@ -100,7 +100,12 @@ def NewtonFL(a3, a2, d0, lmbd, eps, iterMax):
 
 				#CONDIÇÃO CASO |F'(X_k)| > λ
 				x_k1 = x_k - (Func(a3, a2, x_k)/FL)
-				Registrar_Lista(a3, a2, x_k1, FL, True)		#REGISTRANDO OS VALORES DE F(X_K1), FL E X_K1
+				#REGISTRANDO OS VALORES DE F(X_K1), FL E X_K1
+				if (math.fabs(Der_Func(a3, a2, x_k1))) > lmbd:
+					Registrar_Lista(a3, a2, x_k1, Der_Func(a3, a2, x_k1), True)
+				else:
+					Registrar_Lista(a3, a2, x_k1, FL, True)
+				#########
 				if CritParada_Inter(x_k1, x_k, eps):		#CRITERIO DE PARADA DO METODO |X_K1 - X_K0| <= EPS
 					flag = False
 					#RETORNO DAS LISTAS COM OS VALORES DE CADA ITERAÇÃO
