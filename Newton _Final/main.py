@@ -59,3 +59,5 @@ else:
 	print("Resultados do método foram arquivados em res_Newton_FL.txt\n")
 
 funcs.writeArq(raizAnt_NewtonNormal , vlr_Fx, vlr_DerFx, opc_met)
+####
+menu.enter('')
